@@ -70,3 +70,12 @@ nav ul li a{
     background-image: linear-gradient(orange, tomato);
     
 }
+.about{
+    display: flex;
+    height: 800px;
+    background-image: url(images/shapes/Frame\ 59.jpg);
+	
+}
+.half-width img{
+	margin-top: 50px;
+}
